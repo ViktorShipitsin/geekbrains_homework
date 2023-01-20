@@ -1,0 +1,67 @@
+.main__menu_bar {
+    width: 1170px;
+    height: 100px;
+
+    margin: 10px 375px 510px;
+}
+
+.main__menu {
+    width: 533px;
+    height: 17px;
+
+    margin: 41px 375px 632px 1012px;
+}
+
+.main_page__content_block {
+    height: 270px;
+}
+
+.main_page__home_meta {
+    width: 522px;
+    height: 374px;
+
+    margin: 164px 1025px 162px 373px;
+}
+
+.main_page__title {
+    width: 522px;
+    height: 222px;
+
+    margin: 164px 1025px 314px 373px;
+
+    font-size: 60px;
+    line-height: 70px;
+    color: #000000;
+}
+
+.main_page__sub_title {
+    width: 466px;
+    height: 48px;
+    
+    margin: 403px 1081px 249px 373px;
+    padding: 17px;
+}
+
+.main_page__image {
+    width: 610.73px;
+    height: 372.9px;
+}
+
+.main_page_brand_logos {
+    width: 1920px;
+    height: 243px;
+
+    margin: 243px 0px 0px 0px;
+}
+
+.main_page_logos_list {
+    width: 1200px;
+    height: 50px;
+
+    padding: 97px 375px 96px 345px;
+}
+
+.main_page_logo_ref {
+    margin: 97px 1415px 96px 345px;
+    padding: 0px 45px 0px 0px;
+}
